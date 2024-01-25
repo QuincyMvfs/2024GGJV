@@ -1,0 +1,1 @@
+"E:\Unreal Engine\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\Quincy M\Documents\SourceTree\GGJV2024\GGJV2024.uproject" -game -ResX=800 -ResY=900 -WinX=0 -WinY=20 -log
