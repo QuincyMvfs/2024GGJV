@@ -3,13 +3,13 @@ Itch link: https://quincym.itch.io/balls-of-steel
 
 Game Jam for 2024 Global Game Jam Vancouver
 
-# Balls of Steel
+## Balls of Steel
 Balls of Steel is a third-person, rock paper scissor based single-player 1v1 action game where the players participate in a Ball kicking tournament to have “true Balls of Steel”. Bust opponents’ balls using various attacks, outwit your opponents moves to prove you are worthy to have true Balls of Steel!
 
 
 
-# Team
-3D Artists:
+## Team
+### 3D Artists:
 
 Cindy Lui - Character Artist/ Texturing
 
