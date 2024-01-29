@@ -17,13 +17,13 @@ Josh Anaya-Paiero - Environment Artist/ Project Manager/ Animator
 
 
 
-## 2D Artists:
+### 2D Artists:
 
 Giovanna Gowmez - UI Artist
 
 
 
-## Level Designers:
+### Level Designers:
 
 Liam Pringle - Cutscene's,  Level Designer
 
@@ -31,7 +31,7 @@ Callym Lukie - Camera Designer
 
 
 
-## Programmers:
+### Programmers:
 
 Quincy Michels - Gameplay + Systems Programmer
 
@@ -39,6 +39,6 @@ KyungHyeon Choi - UI Programmer/ Designer
 
 
 
-## Audio:
+### Audio:
 
 Jack Pearson - Audio Creation
