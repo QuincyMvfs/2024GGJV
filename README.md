@@ -8,7 +8,7 @@ Balls of Steel is a third-person, rock paper scissor based single-player 1v1 act
 
 
 
-### Team
+# Team
 3D Artists:
 
 Cindy Lui - Character Artist/ Texturing
